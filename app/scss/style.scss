@@ -1,3 +1,10 @@
-div{
-    background-color: yellow;
+.box{
+    background-color: aquamarine;
+    height: 130px;
+    border: 1px solid gray;
+}
+
+.item{
+    border: 4px solid yellow !important;
+    // border-radius: 50%;
 }
